@@ -6,7 +6,8 @@ def max_value(numbers):
         return numbers[0]
     else:
         return None
-    return "Hello!"
+    return "Hello day!"
+
 
 
 if __name__ == "__main__":
